@@ -1,0 +1,17 @@
+{
+  "name": "space",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm dev",
+    "build": "npm build",
+    "start": "npm start"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-styled-flexboxgrid": "^3.2.1",
+    "styled-components": "^5.2.0"
+  }
+}
